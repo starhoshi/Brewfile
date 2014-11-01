@@ -7,6 +7,7 @@ cask install alfred
 cask install appcleaner
 cask install bartender
 cask install bettertouchtool
+cask install cd-to
 cask install clipmenu
 cask install coteditor
 cask install cyberduck
@@ -31,8 +32,8 @@ cask install rightzoom
 cask install skype
 cask install sourcetree
 cask install sqlite-database-browser
+cask install startninja
 cask install sublime-text
-cask install textsoap
 cask install the-unarchiver
 cask install titanium-studio
 cask install vagrant
