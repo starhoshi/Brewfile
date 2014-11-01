@@ -16,7 +16,6 @@ cask install dropbox
 cask install eve
 cask install filezilla
 cask install firefox
-cask install gifzo
 cask install gimp
 cask install github
 cask install google-chrome
@@ -49,12 +48,31 @@ cask install firefox-ja
 
 ## pekepeke/pekepekecask
 tap pekepeke/pekepekecask
+cask install gifzo
 
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install go
+install hub --HEAD
 install openssl
 install tree
 install wget
+
+# Cask applications
+cask install Warning:
+cask install Warning:
+cask install Warning:
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install Warning: Unexpected method 'sha1' called on Gifzo.
+#cask  install Warning:   If you are working on Gifzo, this may point to a typo. Otherwise
+#cask  install Warning:   it probably means this Cask is using a new feature. If that feature
+#cask  install Warning:   has been released, running
+#cask  install Warning:     brew update && brew upgrade brew-cask && brew cleanup && brew cask cleanup
+#cask  install Warning:   should fix it. Otherwise you should wait to use Gifzo until the
+#cask  install Warning:   new feature is released.
