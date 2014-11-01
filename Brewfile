@@ -41,6 +41,10 @@ cask install virtualbox
 cask install vlc
 cask install xtrafinder
 
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
