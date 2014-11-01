@@ -56,3 +56,8 @@ install hub --HEAD
 install openssl
 install tree
 install wget
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install gifzo (!)
