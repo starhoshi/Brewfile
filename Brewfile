@@ -45,4 +45,6 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install openssl
 install tree
+install wget
