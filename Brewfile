@@ -7,7 +7,6 @@ cask install alfred
 cask install appcleaner
 cask install bartender
 cask install bettertouchtool
-cask install cheatsheet
 cask install clipmenu
 cask install coteditor
 cask install cyberduck
