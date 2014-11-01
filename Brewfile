@@ -45,6 +45,9 @@ cask install xtrafinder
 tap caskroom/versions
 cask install firefox-ja
 
+## pekepeke/pekepekecask
+tap pekepeke/pekepekecask
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
