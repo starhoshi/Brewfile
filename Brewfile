@@ -16,6 +16,7 @@ cask install dropbox
 cask install eve
 cask install filezilla
 cask install firefox
+cask install gifzo
 cask install gimp
 cask install github
 cask install google-chrome
