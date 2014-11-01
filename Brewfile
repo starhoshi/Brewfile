@@ -29,6 +29,7 @@ cask install kobito
 cask install mou
 cask install onepassword
 cask install rightzoom
+cask install seil
 cask install skype
 cask install sourcetree
 cask install sqlite-database-browser
