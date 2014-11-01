@@ -27,6 +27,7 @@ cask install karabiner
 cask install keyboardcleantool
 cask install kobito
 cask install mou
+cask install onepassword
 cask install rightzoom
 cask install skype
 cask install sourcetree
