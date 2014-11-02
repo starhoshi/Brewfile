@@ -53,7 +53,9 @@ install brew-file
 # Other Homebrew packages
 install go
 install hub --HEAD
+install libevent
 install openssl
+install tmux
 install tree
 install wget
 
