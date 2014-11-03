@@ -40,21 +40,50 @@ cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install xquartz
 cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install macvim-kaoriya
 
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
 
+## sanemat/font
+tap sanemat/font
+install ricty
+
 # Other Homebrew packages
+install autoconf
+install automake
+install cairo
+install fontconfig
+install fontforge
+install freetype
+install gdbm
+install gettext
+install glib
 install go
+install gobject-introspection
+install harfbuzz
 install hub --HEAD
+install icu4c
+install jpeg
 install libevent
+install libffi
+install libpng
+install libtiff
+install libtool
 install openssl
+install pango
+install pixman
+install pkg-config
+install python
+install readline
+install sqlite
 install tmux
 install tree
 install wget
