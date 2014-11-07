@@ -30,12 +30,16 @@ cask install keyboardcleantool
 cask install kobito
 cask install mou
 cask install onepassword
+cask install provisionql
 cask install qlcolorcode
+cask install qlimagesize
 cask install qlmarkdown
+cask install qlprettypatch
 cask install qlstephen
 cask install quicklook-csv
 cask install quicklook-json
 cask install rightzoom
+cask install scriptql
 cask install seil
 cask install skype
 cask install sourcetree
@@ -48,6 +52,7 @@ cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install webp-quicklook
 cask install xquartz
 cask install xtrafinder
 
@@ -98,6 +103,7 @@ install libpng
 install libtiff
 install libtool
 install makedepend
+install nkf
 install openssl
 install pango
 install pcre
@@ -112,3 +118,8 @@ install tree
 install webp
 install wget
 install xz
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install simpholders2-alpha (!)
