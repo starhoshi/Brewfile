@@ -7,6 +7,7 @@ cask install alfred
 cask install appcleaner
 cask install bartender
 cask install bettertouchtool
+cask install betterzipql
 cask install cd-to
 cask install clipmenu
 cask install coteditor
@@ -29,6 +30,11 @@ cask install keyboardcleantool
 cask install kobito
 cask install mou
 cask install onepassword
+cask install qlcolorcode
+cask install qlmarkdown
+cask install qlstephen
+cask install quicklook-csv
+cask install quicklook-json
 cask install rightzoom
 cask install seil
 cask install skype
@@ -36,6 +42,7 @@ cask install sourcetree
 cask install sqlite-database-browser
 cask install startninja
 cask install sublime-text
+cask install suspicious-package
 cask install the-unarchiver
 cask install titanium-studio
 cask install vagrant
