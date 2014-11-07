@@ -16,6 +16,7 @@ cask install dropbox
 cask install eve
 cask install filezilla
 cask install firefox
+cask install gifzo
 cask install gimp
 cask install github
 cask install google-chrome
@@ -48,6 +49,13 @@ tap caskroom/versions
 cask install firefox-ja
 cask install macvim-kaoriya
 
+## homebrew/dupes
+tap homebrew/dupes
+install grep
+
+## macoshita/custom
+tap macoshita/custom
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
@@ -56,9 +64,14 @@ install brew-file
 tap sanemat/font
 install ricty
 
+## waltarix/customs
+tap waltarix/customs
+install tmux
+
 # Other Homebrew packages
 install autoconf
 install automake
+install bash
 install cairo
 install fontconfig
 install fontforge
@@ -77,18 +90,18 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install makedepend
 install openssl
 install pango
+install pcre
 install pixman
 install pkg-config
 install python
 install readline
+install reattach-to-user-namespace
 install sqlite
-install tmux
+install tig
 install tree
+install webp
 install wget
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install gifzo (!)
+install xz
