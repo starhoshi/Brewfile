@@ -118,8 +118,3 @@ install tree
 install webp
 install wget
 install xz
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install simpholders2-alpha (!)
