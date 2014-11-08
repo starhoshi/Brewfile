@@ -29,6 +29,7 @@ cask install jdiskreport
 cask install karabiner
 cask install keyboardcleantool
 cask install kobito
+cask install macdown
 cask install mou
 cask install onepassword
 cask install provisionql
@@ -119,8 +120,3 @@ install tree
 install webp
 install wget
 install xz
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install simpholders2-alpha (!)
