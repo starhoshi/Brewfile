@@ -8,6 +8,7 @@ cask install appcleaner
 cask install bartender
 cask install bettertouchtool
 cask install betterzipql
+cask install boot2docker
 cask install cd-to
 cask install clipmenu
 cask install coteditor
@@ -118,3 +119,8 @@ install tree
 install webp
 install wget
 install xz
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install simpholders2-alpha (!)
