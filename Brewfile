@@ -5,6 +5,7 @@ tap caskroom/cask
 install brew-cask
 cask install alfred
 cask install appcleaner
+cask install atom
 cask install bartender
 cask install bettertouchtool
 cask install betterzipql
@@ -18,6 +19,7 @@ cask install dropbox
 cask install eve
 cask install filezilla
 cask install firefox
+cask install flux
 cask install gifzo
 cask install gimp
 cask install github
@@ -61,6 +63,7 @@ cask install xtrafinder
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install firefoxdeveloperedition-ja
 cask install macvim-kaoriya
 
 ## homebrew/dupes
@@ -78,9 +81,13 @@ install brew-file
 tap sanemat/font
 install ricty
 
+## starhoshi/starhoshicask
+tap starhoshi/starhoshicask
+
 ## waltarix/customs
 tap waltarix/customs
 install tmux
+install zsh
 
 # Other Homebrew packages
 install autoconf
