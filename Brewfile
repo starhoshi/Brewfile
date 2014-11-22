@@ -45,6 +45,7 @@ cask install quicklook-json
 cask install rightzoom
 cask install scriptql
 cask install seil
+cask install sequel-pro
 cask install skype
 cask install sourcetree
 cask install sqlite-database-browser
@@ -83,6 +84,7 @@ install ricty
 
 ## starhoshi/starhoshicask
 tap starhoshi/starhoshicask
+cask install appstorehelper
 
 ## waltarix/customs
 tap waltarix/customs
