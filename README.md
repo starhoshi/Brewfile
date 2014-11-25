@@ -11,4 +11,4 @@ Package list for Homebrew
 4. JavaForOSX2014-001.dmg
 5. usbrgb321.dmg
 6. Xcode5.1.1.dmg
-
+7. Fabric.app
