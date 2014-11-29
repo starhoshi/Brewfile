@@ -26,6 +26,7 @@ cask install github
 cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
+cask install image-tool
 cask install iterm2
 cask install jdiskreport
 cask install karabiner
@@ -48,7 +49,6 @@ cask install seil
 cask install sequel-pro
 cask install skype
 cask install sourcetree
-cask install sqlite-database-browser
 cask install startninja
 cask install sublime-text
 cask install suspicious-package
@@ -129,3 +129,8 @@ install tree
 install webp
 install wget
 install xz
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install sqlite-database-browser (!)
