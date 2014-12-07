@@ -27,6 +27,7 @@ cask install github
 cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
+cask install gyazo
 cask install image-tool
 cask install iterm2
 cask install jdiskreport
@@ -50,6 +51,7 @@ cask install seil
 cask install sequel-pro
 cask install skype
 cask install sourcetree
+cask install sqlitebrowser
 cask install startninja
 cask install sublime-text
 cask install suspicious-package
@@ -66,6 +68,7 @@ cask install xtrafinder
 tap caskroom/versions
 cask install firefox-ja
 cask install firefoxdeveloperedition-ja
+cask install google-chrome-canary
 cask install macvim-kaoriya
 
 ## homebrew/dupes
@@ -89,6 +92,7 @@ cask install appstorehelper
 
 ## waltarix/customs
 tap waltarix/customs
+install freetype
 install tmux
 install zsh
 
@@ -99,7 +103,6 @@ install bash
 install cairo
 install fontconfig
 install fontforge
-install freetype
 install gdbm
 install gettext
 install glib
@@ -130,8 +133,3 @@ install tree
 install webp
 install wget
 install xz
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install sqlite-database-browser (!)
