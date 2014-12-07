@@ -10,6 +10,7 @@ cask install bartender
 cask install bettertouchtool
 cask install betterzipql
 cask install boot2docker
+cask install brackets
 cask install cd-to
 cask install clipmenu
 cask install coteditor
