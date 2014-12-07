@@ -37,6 +37,7 @@ cask install kobito
 cask install macdown
 cask install mou
 cask install onepassword
+cask install plain-clip
 cask install provisionql
 cask install qlcolorcode
 cask install qlimagesize
