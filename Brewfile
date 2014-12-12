@@ -13,6 +13,7 @@ cask install boot2docker
 cask install brackets
 cask install cd-to
 cask install clipmenu
+cask install colorpicker-hex
 cask install coteditor
 cask install cyberduck
 cask install day-o
@@ -29,6 +30,7 @@ cask install google-drive
 cask install google-japanese-ime
 cask install gyazo
 cask install image-tool
+cask install inkscape
 cask install iterm2
 cask install jdiskreport
 cask install karabiner
@@ -36,7 +38,7 @@ cask install keyboardcleantool
 cask install kobito
 cask install macdown
 cask install mou
-cask install onepassword
+cask install onyx
 cask install plain-clip
 cask install provisionql
 cask install qlcolorcode
@@ -61,7 +63,6 @@ cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 cask install vlc
-cask install webp-quicklook
 cask install xquartz
 cask install xtrafinder
 
@@ -102,6 +103,7 @@ install autoconf
 install automake
 install bash
 install cairo
+install czmq
 install fontconfig
 install fontforge
 install gdbm
@@ -113,9 +115,11 @@ install harfbuzz
 install hub --HEAD
 install icu4c
 install jpeg
+install leptonica
 install libevent
 install libffi
 install libpng
+install libsodium
 install libtiff
 install libtool
 install makedepend
@@ -129,8 +133,16 @@ install python
 install readline
 install reattach-to-user-namespace
 install sqlite
+install tesseract
 install tig
 install tree
 install webp
 install wget
 install xz
+install zeromq
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install onepassword (!)
+#cask  install webp-quicklook (!)
