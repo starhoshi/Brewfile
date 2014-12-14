@@ -3,6 +3,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 1password
 cask install alfred
 cask install appcleaner
 cask install atom
@@ -63,6 +64,8 @@ cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install wacom-bamboo-tablet
+cask install webpquicklook
 cask install xquartz
 cask install xtrafinder
 
@@ -91,6 +94,7 @@ install ricty
 ## starhoshi/starhoshicask
 tap starhoshi/starhoshicask
 cask install appstorehelper
+cask install firealpaca
 
 ## waltarix/customs
 tap waltarix/customs
@@ -140,9 +144,3 @@ install webp
 install wget
 install xz
 install zeromq
-
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install onepassword (!)
-#cask  install webp-quicklook (!)
