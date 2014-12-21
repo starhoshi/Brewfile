@@ -95,6 +95,7 @@ install ricty
 tap starhoshi/starhoshicask
 cask install appstorehelper
 cask install firealpaca
+cask install simulatormanager
 
 ## waltarix/customs
 tap waltarix/customs
