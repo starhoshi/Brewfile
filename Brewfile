@@ -8,6 +8,7 @@ cask install alfred
 cask install appcleaner
 cask install atom
 cask install bartender
+cask install beardedspice
 cask install bettertouchtool
 cask install betterzipql
 cask install boot2docker
@@ -51,6 +52,7 @@ cask install quicklook-csv
 cask install quicklook-json
 cask install rightzoom
 cask install scriptql
+cask install secondbar
 cask install seil
 cask install sequel-pro
 cask install skype
