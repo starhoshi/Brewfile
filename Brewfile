@@ -39,6 +39,7 @@ cask install karabiner
 cask install keyboardcleantool
 cask install kobito
 cask install macdown
+cask install magicprefs
 cask install mou
 cask install onyx
 cask install plain-clip
