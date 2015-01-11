@@ -12,3 +12,5 @@ Package list for Homebrew
 5. usbrgb321.dmg
 6. Xcode5.1.1.dmg
 7. Fabric.app
+8. iDisplay.app - cannot install cask, error.
+
