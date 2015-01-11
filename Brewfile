@@ -5,6 +5,7 @@ tap caskroom/cask
 install brew-cask
 cask install 1password
 cask install alfred
+cask install android-file-transfer
 cask install appcleaner
 cask install atom
 cask install bartender
@@ -63,7 +64,6 @@ cask install startninja
 cask install sublime-text
 cask install suspicious-package
 cask install the-unarchiver
-cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 cask install vlc
@@ -148,3 +148,8 @@ install webp
 install wget
 install xz
 install zeromq
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install titanium-studio (!)
