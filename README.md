@@ -13,4 +13,5 @@ Package list for Homebrew
 6. Xcode5.1.1.dmg
 7. Fabric.app
 8. iDisplay.app - cannot install cask, error.
+9. alternote.app
 
