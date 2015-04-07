@@ -15,3 +15,5 @@ Package list for Homebrew
 8. iDisplay.app - cannot install cask, error.
 9. alternote.app
 10. BOOKSCANdダウンローダー.app
+11. Android SDK
+12. Apache Cordova(npm)
