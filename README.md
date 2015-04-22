@@ -18,3 +18,5 @@ Package list for Homebrew
 11. Android SDK
 12. Apache Cordova(npm)
 13. Unity(Unity Download Assistant)
+14. Titanium Studio
+
