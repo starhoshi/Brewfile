@@ -41,6 +41,7 @@ cask install google-japanese-ime
 cask install gyazo
 cask install hosts
 cask install image-tool
+cask install imageoptim
 cask install inkscape
 cask install iterm2
 cask install jdiskreport
