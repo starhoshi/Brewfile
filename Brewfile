@@ -40,6 +40,7 @@ cask install google-drive
 cask install google-japanese-ime
 cask install gyazo
 cask install hosts
+cask install hyperswitch
 cask install image-tool
 cask install imageoptim
 cask install inkscape
@@ -70,6 +71,7 @@ cask install rightzoom
 cask install scriptql
 cask install secondbar
 cask install seil
+cask install send-to-kindle
 cask install sequel-pro
 cask install skim
 cask install skype
@@ -216,6 +218,7 @@ appstore Locko
 appstore Logo Pop Free
 appstore MachineProfile
 appstore Mactracker
+appstore Magnet
 appstore Mailto Interceptor Lite
 appstore Memory Clean
 appstore Memory Monitor
@@ -230,6 +233,7 @@ appstore Now Playing Pro
 appstore Numbers
 appstore OneDrive
 appstore Pages
+appstore Pasteasy
 appstore PDF to Text Converter
 appstore Pocket
 appstore popCalendar
