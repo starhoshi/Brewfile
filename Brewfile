@@ -27,6 +27,7 @@ cask install cyberduck
 cask install day-o
 cask install diskwave
 cask install dropbox
+cask install electron
 cask install eve
 cask install filezilla
 cask install firealpaca
