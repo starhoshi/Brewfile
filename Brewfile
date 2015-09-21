@@ -10,6 +10,7 @@ cask install amazon-music
 cask install android-file-transfer
 cask install appcleaner
 cask install appcode
+cask install arduino
 cask install atom
 cask install bartender
 cask install beardedspice
@@ -56,6 +57,7 @@ cask install lyrics-master
 cask install macdown
 cask install magicprefs
 cask install mou
+cask install music-manager
 cask install onyx
 cask install plain-clip
 cask install processing
@@ -146,6 +148,7 @@ install fontconfig
 install fontforge
 install gdbm
 install gettext
+install git-flow
 install glib
 install go
 install gobject-introspection
@@ -165,6 +168,7 @@ install libtool
 install makedepend
 install mysql
 install nkf
+install nodebrew
 install openssl
 install pango
 install pcre
@@ -186,6 +190,7 @@ install zeromq
 # App Store applications
 appstore Alarm Clock
 appstore App for Gmail
+appstore Asset Catalog Creator Free
 appstore Bandwidth+
 appstore Battery Health
 appstore Battery Monitor
@@ -195,7 +200,6 @@ appstore Color Maker
 appstore CoolEdit
 appstore CSS3 ButtonBuilder
 appstore Dash
-appstore Disk Diag
 appstore Disk Space Tab
 appstore Display Menu
 appstore Evernote
@@ -204,6 +208,7 @@ appstore Found
 appstore Free Fonts
 appstore FreeMan
 appstore GarageBand
+appstore Gear for Google Play and YouTube
 appstore Get Plain Text
 appstore here
 appstore Icon Set Creator
@@ -224,6 +229,7 @@ appstore Mailto Interceptor Lite
 appstore Memory Clean
 appstore Memory Monitor
 appstore MenuMate
+appstore Microsoft Remote Desktop
 appstore MiniPlayer
 appstore MiniUsage
 appstore Monosnap
