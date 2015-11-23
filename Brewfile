@@ -3,188 +3,173 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install 1password
-cask install alfred
-cask install amazon-music
-cask install android-file-transfer
-cask install appcleaner
-cask install appcode
-cask install arduino
-cask install atom
-cask install bartender
-cask install beardedspice
-cask install bettertouchtool
-cask install betterzipql
-cask install boot2docker
-cask install brackets
-cask install cd-to
-cask install charles
-cask install clipmenu
-cask install colorpicker-hex
-cask install coteditor
-cask install cyberduck
-cask install day-o
-cask install diskwave
-cask install dropbox
-cask install electron
-cask install eve
-cask install filezilla
-cask install firealpaca
-cask install firefox
-cask install flux
-cask install gifzo
-cask install gimp
-cask install github
-cask install google-chrome
-cask install google-drive
-cask install google-japanese-ime
-cask install gyazo
-cask install hosts
-cask install hyperswitch
-cask install image-tool
-cask install imageoptim
-cask install inkscape
-cask install iterm2
-cask install jdiskreport
-cask install karabiner
-cask install keyboardcleantool
-cask install knock
-cask install kobito
-cask install licecap
-cask install lyrics-master
-cask install macdown
-cask install magicprefs
-cask install mou
-cask install music-manager
-cask install onyx
-cask install plain-clip
-cask install processing
-cask install prott
-cask install provisionql
-cask install qlcolorcode
-cask install qlimagesize
-cask install qlmarkdown
-cask install qlprettypatch
-cask install qlstephen
-cask install quicklook-csv
-cask install quicklook-json
-cask install rightzoom
-cask install scriptql
-cask install secondbar
-cask install seil
-cask install send-to-kindle
-cask install sequel-pro
-cask install skim
-cask install skype
-cask install slack
-cask install sourcetree
-cask install sqlitebrowser
-cask install startninja
-cask install sublime-text
-cask install suspicious-package
-cask install the-unarchiver
-cask install toggldesktop
-cask install twine
-cask install unity-web-player
-cask install vagrant
-cask install virtualbox
-cask install vlc
-cask install wacom-bamboo-tablet
-cask install webpquicklook
-cask install xquartz
-cask install xtrafinder
+brew brew-cask
+cask 1password
+cask alfred
+cask amazon-music
+cask android-file-transfer
+cask appcleaner
+cask arduino
+cask atom
+cask bartender
+cask bettertouchtool
+cask betterzipql
+cask brackets
+cask cd-to
+cask charles
+cask clipmenu
+cask colorpicker-hex
+cask cyberduck
+cask dropbox
+cask electron
+cask eve
+cask filezilla
+cask firealpaca
+cask firefox
+cask flux
+cask gimp
+cask google-chrome
+cask google-drive
+cask google-japanese-ime
+cask gyazo
+cask hosts
+cask hyperswitch
+cask image-tool
+cask imageoptim
+cask inkscape
+cask iterm2
+cask jdiskreport
+cask karabiner
+cask keyboardcleantool
+cask kobito
+cask licecap
+cask lyrics-master
+cask macdown
+cask music-manager
+cask onyx
+cask processing
+cask prott
+cask provisionql
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask scriptql
+cask send-to-kindle
+cask sequel-pro
+cask skim
+cask skype
+cask slack
+cask sourcetree
+cask sqlitebrowser
+cask startninja
+cask sublime-text
+cask suspicious-package
+cask the-unarchiver
+cask toggldesktop
+cask twine
+cask unity-web-player
+cask vagrant
+cask virtualbox
+cask vlc
+cask webpquicklook
+cask xquartz
+cask xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
-cask install firefoxdeveloperedition-ja
-cask install google-chrome-canary
-cask install macvim-kaoriya
+cask firefox-ja
+cask macvim-kaoriya
 
 ## homebrew/dupes
 tap homebrew/dupes
-install grep
+brew grep
 
 ## macoshita/custom
 tap macoshita/custom
 
 ## peco/peco
 tap peco/peco
-install peco
+brew peco
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
-install ricty
+brew ricty
 
 ## starhoshi/starhoshicask
 tap starhoshi/starhoshicask
-cask install appstorehelper
-cask install kindle-for-mac-jp
-cask install simulatormanager
+cask appstorehelper
+cask kindle-for-mac-jp
+cask simulatormanager
 
 ## waltarix/customs
 tap waltarix/customs
-install freetype
-install tmux
-install zsh
+brew freetype
+brew tmux
+brew zsh
 
 # Other Homebrew packages
-install ant
-install asciinema
-install autoconf
-install automake
-install bash
-install bison
-install cairo
-install carthage
-install czmq
-install fontconfig
-install fontforge
-install gdbm
-install gettext
-install git-flow
-install glib
-install go
-install gobject-introspection
-install harfbuzz
-install hub --HEAD
-install icu4c
-install ios-sim
-install jpeg
-install jq
-install leptonica
-install libevent
-install libffi
-install libpng
-install libsodium
-install libtiff
-install libtool
-install makedepend
-install mysql
-install nkf
-install nodebrew
-install openssl
-install pango
-install pcre
-install pixman
-install pkg-config
-install python
-install readline
-install reattach-to-user-namespace
-install spark
-install sqlite
-install tesseract
-install tig
-install tree
-install webp
-install wget
-install xz
-install zeromq
+brew ant
+brew asciinema
+brew autoconf
+brew automake
+brew bash
+brew bison
+brew cairo
+brew carthage
+brew czmq
+brew fontconfig
+brew fontforge
+brew gdbm
+brew gettext
+brew git-flow
+brew glib
+brew go
+brew gobject-introspection
+brew harfbuzz
+brew hub --HEAD
+brew icu4c
+brew ios-sim
+brew jpeg
+brew jq
+brew leptonica
+brew libevent
+brew libffi
+brew libpng
+brew libsodium
+brew libtiff
+brew libtool
+brew makedepend
+brew mysql
+brew nkf
+brew nodebrew
+brew openssl
+brew pango
+brew pcre
+brew pixman
+brew pkg-config
+brew python
+brew readline
+brew reattach-to-user-namespace
+brew spark
+brew sqlite
+brew tesseract
+brew tig
+brew tree
+brew webp
+brew wget
+brew xz
+brew zeromq
+
+# Cask applications
+cask github
 
 # App Store applications
 appstore Alarm Clock
