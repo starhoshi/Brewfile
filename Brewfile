@@ -27,7 +27,6 @@ cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask gyazo
 cask hosts
 cask image-tool
 cask inkscape
@@ -61,7 +60,6 @@ cask sourcetree
 cask sqlitebrowser
 cask sublime-text
 cask the-unarchiver
-cask twine
 cask unity-web-player
 cask vagrant
 cask virtualbox
