@@ -12,14 +12,18 @@ cask appcleaner
 cask arduino
 cask atom
 cask bartender
+cask beardedspice
 cask bettertouchtool
 cask betterzipql
+cask boot2docker
 cask brackets
+cask calibre
 cask cd-to
 cask charles
 cask clipmenu
 cask colorpicker-hex
 cask cyberduck
+cask diskwave
 cask dropbox
 cask electron
 cask eve
@@ -43,10 +47,15 @@ cask karabiner
 cask keyboardcleantool
 cask kobito
 cask licecap
+cask livereload
 cask lyrics-master
 cask macdown
+cask magicprefs
 cask music-manager
+cask near-lock
 cask onyx
+cask path-finder
+cask plain-clip
 cask processing
 cask prott
 cask provisionql
@@ -57,7 +66,10 @@ cask qlprettypatch
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
+cask rightzoom
 cask scriptql
+cask secondbar
+cask seil
 cask send-to-kindle
 cask sequel-pro
 cask skim
@@ -75,6 +87,7 @@ cask unity-web-player
 cask vagrant
 cask virtualbox
 cask vlc
+cask wacom-bamboo-tablet
 cask webpquicklook
 cask xquartz
 cask xtrafinder
@@ -82,6 +95,7 @@ cask xtrafinder
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask google-chrome-canary
 cask macvim-kaoriya
 
 ## homebrew/dupes
@@ -134,7 +148,7 @@ brew glib
 brew go
 brew gobject-introspection
 brew harfbuzz
-brew hub --HEAD
+brew hub
 brew icu4c
 brew ios-sim
 brew jpeg
@@ -160,6 +174,7 @@ brew readline
 brew reattach-to-user-namespace
 brew spark
 brew sqlite
+brew swiftlint
 brew tesseract
 brew tig
 brew tree
@@ -168,80 +183,43 @@ brew wget
 brew xz
 brew zeromq
 
-# Cask applications
-cask github
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask github (!)
 
 # App Store applications
-appstore Alarm Clock
-appstore App for Gmail
-appstore Asset Catalog Creator Free
 appstore Bandwidth+
 appstore Battery Health
-appstore Battery Monitor
 appstore Caffeine
 appstore CheatSheet
-appstore Color Maker
-appstore CoolEdit
-appstore CSS3 ButtonBuilder
 appstore Dash
-appstore Disk Space Tab
+appstore Disk Diag
 appstore Display Menu
 appstore Evernote
-appstore Form
-appstore Found
-appstore Free Fonts
 appstore FreeMan
 appstore GarageBand
-appstore Gear for Google Play and YouTube
-appstore Get Plain Text
-appstore here
 appstore Icon Set Creator
 appstore iMovie
 appstore iPhoto
-appstore iScanner
-appstore JSON XML Parser
-appstore Kaomoji Lover
 appstore Keynote
 appstore LINE
-appstore Live Desktop
-appstore Locko
-appstore Logo Pop Free
 appstore MachineProfile
-appstore Mactracker
-appstore Magnet
-appstore Mailto Interceptor Lite
-appstore Memory Clean
-appstore Memory Monitor
 appstore MenuMate
 appstore Microsoft Remote Desktop
-appstore MiniPlayer
-appstore MiniUsage
-appstore Monosnap
-appstore NetView
-appstore nexTab
 appstore Noizio
-appstore Now Playing Pro
 appstore Numbers
 appstore OneDrive
 appstore Pages
 appstore Pasteasy
-appstore PDF to Text Converter
 appstore Pocket
 appstore popCalendar
 appstore PopClip
 appstore Pushbullet
-appstore Revisions
-appstore Right QR
+appstore Reeder
 appstore Sip
 appstore Skitch
-appstore Stats
-appstore TextSoapMenu-MAS
-appstore TextWrangler
-appstore Translate App
 appstore Translate Tab
-appstore TwitterApp
-appstore Weather Wall
-appstore WiFi Signal
 appstore Window Tidy
 appstore Wunderlist
 appstore Xcode
