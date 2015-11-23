@@ -18,7 +18,6 @@ cask install bettertouchtool
 cask install betterzipql
 cask install boot2docker
 cask install brackets
-cask install calibre
 cask install cd-to
 cask install charles
 cask install clipmenu
