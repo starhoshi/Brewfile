@@ -12,51 +12,36 @@ cask appcleaner
 cask arduino
 cask atom
 cask bartender
-cask beardedspice
 cask bettertouchtool
 cask betterzipql
-cask boot2docker
 cask brackets
-cask calibre
 cask cd-to
-cask charles
-cask clipmenu
 cask colorpicker-hex
 cask cyberduck
-cask diskwave
 cask dropbox
 cask electron
 cask eve
 cask filezilla
 cask firealpaca
-cask firefox
-cask flux
 cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask gyazo
 cask hosts
-cask hyperswitch
 cask image-tool
-cask imageoptim
 cask inkscape
 cask iterm2
 cask jdiskreport
 cask karabiner
 cask keyboardcleantool
 cask kobito
-cask licecap
-cask livereload
 cask lyrics-master
 cask macdown
-cask magicprefs
 cask music-manager
 cask near-lock
 cask onyx
 cask path-finder
-cask plain-clip
-cask processing
 cask prott
 cask provisionql
 cask qlcolorcode
@@ -66,10 +51,7 @@ cask qlprettypatch
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
-cask rightzoom
 cask scriptql
-cask secondbar
-cask seil
 cask send-to-kindle
 cask sequel-pro
 cask skim
@@ -77,25 +59,18 @@ cask skype
 cask slack
 cask sourcetree
 cask sqlitebrowser
-cask startninja
 cask sublime-text
-cask suspicious-package
 cask the-unarchiver
-cask toggldesktop
 cask twine
 cask unity-web-player
 cask vagrant
 cask virtualbox
 cask vlc
-cask wacom-bamboo-tablet
 cask webpquicklook
-cask xquartz
-cask xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
-cask google-chrome-canary
 cask macvim-kaoriya
 
 ## homebrew/dupes
@@ -182,11 +157,6 @@ brew webp
 brew wget
 brew xz
 brew zeromq
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask github (!)
 
 # App Store applications
 appstore Bandwidth+
