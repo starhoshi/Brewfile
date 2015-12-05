@@ -74,6 +74,7 @@ cask macvim-kaoriya
 ## homebrew/dupes
 tap homebrew/dupes
 brew grep
+brew ncurses
 
 ## macoshita/custom
 tap macoshita/custom
@@ -157,6 +158,7 @@ brew xz
 brew zeromq
 
 # App Store applications
+appstore Alternote
 appstore Bandwidth+
 appstore Battery Health
 appstore Caffeine
@@ -167,6 +169,7 @@ appstore Display Menu
 appstore Evernote
 appstore FreeMan
 appstore GarageBand
+appstore Gear for Google Play and YouTube
 appstore Icon Set Creator
 appstore iMovie
 appstore iPhoto
@@ -187,6 +190,7 @@ appstore Pushbullet
 appstore Reeder
 appstore Sip
 appstore Skitch
+appstore SnailSVN
 appstore Translate Tab
 appstore Window Tidy
 appstore Wunderlist
