@@ -19,6 +19,7 @@ cask cd-to
 cask colorpicker-hex
 cask cyberduck
 cask dropbox
+cask duet
 cask electron
 cask eve
 cask filezilla
@@ -34,7 +35,6 @@ cask iterm2
 cask jdiskreport
 cask karabiner
 cask keyboardcleantool
-cask kobito
 cask lyrics-master
 cask macdown
 cask music-manager
