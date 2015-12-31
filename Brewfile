@@ -174,6 +174,7 @@ appstore Icon Set Creator
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore Kobito
 appstore LINE
 appstore MachineProfile
 appstore MenuMate
