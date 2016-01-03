@@ -16,6 +16,7 @@ cask bettertouchtool
 cask betterzipql
 cask brackets
 cask cd-to
+cask chrome-remote-desktop-host
 cask colorpicker-hex
 cask cyberduck
 cask dropbox
@@ -117,6 +118,7 @@ brew fontconfig
 brew fontforge
 brew gdbm
 brew gettext
+brew gibo
 brew git-flow
 brew glib
 brew go
@@ -164,12 +166,14 @@ appstore Battery Health
 appstore Caffeine
 appstore CheatSheet
 appstore Dash
+appstore Day One
 appstore Disk Diag
 appstore Display Menu
 appstore Evernote
 appstore FreeMan
 appstore GarageBand
 appstore Gear for Google Play and YouTube
+appstore Gemini
 appstore Icon Set Creator
 appstore iMovie
 appstore iPhoto
