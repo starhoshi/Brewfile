@@ -26,6 +26,7 @@ cask electron
 cask eve
 cask filezilla
 cask firealpaca
+cask flux
 cask gimp
 cask google-chrome
 cask google-drive
