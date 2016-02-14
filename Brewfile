@@ -19,6 +19,7 @@ cask cd-to
 cask chrome-remote-desktop-host
 cask colorpicker-hex
 cask cyberduck
+cask diskwave
 cask dropbox
 cask duet
 cask electron
@@ -36,7 +37,6 @@ cask iterm2
 cask jdiskreport
 cask karabiner
 cask keyboardcleantool
-cask lyrics-master
 cask macdown
 cask music-manager
 cask near-lock
@@ -51,6 +51,7 @@ cask qlprettypatch
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
+cask rubymine
 cask scriptql
 cask send-to-kindle
 cask sequel-pro
