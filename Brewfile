@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask 1password
@@ -31,6 +30,7 @@ cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
+cask heroku-toolbelt
 cask hosts
 cask image-tool
 cask inkscape
@@ -69,38 +69,30 @@ cask virtualbox
 cask vlc
 cask webpquicklook
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask macvim-kaoriya
 
-## homebrew/dupes
 tap homebrew/dupes
 brew grep
 brew ncurses
 
-## macoshita/custom
 tap macoshita/custom
 
-## peco/peco
 tap peco/peco
 brew peco
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
 brew ricty
 
-## starhoshi/starhoshicask
 tap starhoshi/starhoshicask
 cask appstorehelper
 cask kindle-for-mac-jp
 cask simulatormanager
 
-## waltarix/customs
 tap waltarix/customs
 brew freetype
 brew tmux
