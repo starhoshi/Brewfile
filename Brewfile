@@ -41,6 +41,7 @@ cask keyboardcleantool
 cask macdown
 cask music-manager
 cask near-lock
+cask obs
 cask onyx
 cask path-finder
 cask prott
