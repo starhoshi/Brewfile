@@ -61,7 +61,6 @@ cask send-to-kindle
 cask sequel-pro
 cask skim
 cask skype
-cask slack
 cask soundflower
 cask sourcetree
 cask sqlitebrowser
@@ -153,6 +152,7 @@ brew pango
 brew pcre
 brew pixman
 brew pkg-config
+brew postgresql
 brew python
 brew rbenv
 brew rbenv-gemset
