@@ -63,7 +63,6 @@ cask skim
 cask skype
 cask soundflower
 cask sourcetree
-cask sqleditor
 cask sqlitebrowser
 cask sublime-text
 cask the-unarchiver
