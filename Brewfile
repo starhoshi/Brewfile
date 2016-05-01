@@ -61,6 +61,7 @@ cask send-to-kindle
 cask sequel-pro
 cask skim
 cask skype
+cask sopcast
 cask soundflower
 cask sourcetree
 cask sqlitebrowser
