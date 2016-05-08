@@ -31,7 +31,6 @@ cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask heroku-toolbelt
 cask hosts
 cask image-tool
 cask inkscape
@@ -55,6 +54,7 @@ cask qlprettypatch
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
+cask quitter
 cask rubymine
 cask scriptql
 cask send-to-kindle
@@ -172,6 +172,9 @@ brew x264
 brew xvid
 brew xz
 brew zeromq
+
+# Cask applications
+cask heroku-toolbelt
 
 # App Store applications
 appstore 974971992 Alternote
