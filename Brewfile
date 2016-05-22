@@ -117,6 +117,7 @@ brew boost
 brew cairo
 brew carthage
 brew czmq
+brew direnv
 brew ffmpeg
 brew fontconfig
 brew fontforge
