@@ -6,6 +6,7 @@ cask 1password
 cask alfred
 cask amazon-music
 cask android-file-transfer
+cask android-studio
 cask appcleaner
 cask arduino
 cask astah-community
