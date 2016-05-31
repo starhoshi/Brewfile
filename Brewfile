@@ -130,6 +130,7 @@ brew git-flow
 brew glib
 brew go
 brew gobject-introspection
+brew graphviz
 brew harfbuzz
 brew highlight
 brew hub
