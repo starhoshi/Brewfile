@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 cask 1password
 cask alfred
@@ -78,6 +81,9 @@ tap caskroom/versions
 cask firefox-ja
 cask macvim-kaoriya
 
+tap cloudfoundry/tap
+brew cf-cli
+
 tap homebrew/dupes
 brew grep
 brew ncurses
@@ -102,9 +108,6 @@ tap waltarix/customs
 brew freetype
 brew tmux
 brew zsh
-
-tap argon/mas
-brew mas
 
 # Other Homebrew packages
 brew ant
