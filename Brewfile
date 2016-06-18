@@ -86,7 +86,10 @@ brew cf-cli
 
 tap homebrew/dupes
 brew grep
+brew libiconv
 brew ncurses
+
+tap homebrew/dupes
 
 tap macoshita/custom
 
@@ -149,6 +152,8 @@ brew libpng
 brew libsodium
 brew libtiff
 brew libtool
+brew libxml2
+brew libxslt
 brew lua
 brew makedepend
 brew mysql
@@ -165,10 +170,12 @@ brew rbenv
 brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
+brew redis
 brew ruby-build
 brew spark
 brew sqlite
 brew swiftlint
+brew terminal-notifier
 brew tesseract
 brew tig
 brew tree
