@@ -38,6 +38,7 @@ cask google-japanese-ime
 cask hosts
 cask image-tool
 cask inkscape
+cask isyncr-desktop
 cask iterm2
 cask jdiskreport
 cask karabiner
