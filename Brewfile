@@ -30,6 +30,7 @@ cask electron
 cask eve
 cask filezilla
 cask firealpaca
+cask fitbit-connect
 cask flux
 cask gimp
 cask google-chrome
