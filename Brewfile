@@ -44,6 +44,7 @@ cask iterm2
 cask jdiskreport
 cask karabiner
 cask keyboardcleantool
+cask licecap
 cask lyrics-master
 cask macdown
 cask music-manager
