@@ -74,6 +74,7 @@ cask sourcetree
 cask sqlitebrowser
 cask sublime-text
 cask the-unarchiver
+cask tomahawk
 cask unity-web-player
 cask vagrant
 cask virtualbox
@@ -86,6 +87,8 @@ cask macvim-kaoriya
 
 tap cloudfoundry/tap
 brew cf-cli
+
+tap cloudfoundry/tap
 
 tap homebrew/dupes
 brew grep
