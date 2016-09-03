@@ -19,4 +19,5 @@ Package list for Homebrew
 12. Apache Cordova(npm)
 13. Unity(Unity Download Assistant)
 14. Titanium Studio
+15. [Insomnia REST Client](https://insomnia.rest/)
 
