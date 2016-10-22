@@ -2,32 +2,100 @@
 # tap repositories and their packages
 
 tap argon/mas
+brew mas
 
 tap caskroom/cask
+cask 1password
+cask alfred
+cask amazon-music
+cask android-studio
+cask appcleaner
+cask arduino
+cask astah-community
+cask atom
+cask bartender
+cask bettertouchtool
+cask betterzipql
+cask brackets
+cask camtwist
+cask cd-to
+cask chrome-remote-desktop-host
+cask colorpicker-hex
+cask cyberduck
+cask dash
+cask diskwave
+cask dropbox
+cask duet
+cask electron
+cask eve
+cask filezilla
+cask fitbit-connect
+cask flux
+cask gimp
+cask google-chrome
+cask google-drive
+cask hosts
+cask insomniax
+cask iterm2
+cask karabiner
+cask keyboardcleantool
+cask licecap
+cask macdown
+cask path-finder
+cask prott
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask quitter
+cask skim
+cask skype
+cask sourcetree
+cask sublime-text
+cask the-unarchiver
+cask vagrant
+cask virtualbox
 
 tap caskroom/versions
+cask macvim-kaoriya
 
 tap cloudfoundry/tap
+brew cf-cli
 
 tap cloudfoundry/tap
 
 tap homebrew/dupes
+brew grep
+brew libiconv
+brew ncurses
 
 tap homebrew/dupes
 
 tap macoshita/custom
 
 tap peco/peco
+brew peco
 
 tap rcmdnk/file
+brew brew-file
 
 tap sanemat/font
+brew ricty
 
 tap starhoshi/starhoshicask
+cask appstorehelper
+cask kindle-for-mac-jp
+cask simulatormanager
 
 tap waltarix/customs
+brew tmux
+brew zsh
 
 # Other Homebrew packages
+brew freetype
 brew ant
 brew asciinema
 brew autoconf
@@ -112,90 +180,6 @@ brew xvid
 brew xz
 brew zeromq
 brew zsh
-
-# Cask applications
-cask 1password
-cask alfred
-cask amazon-music
-cask android-file-transfer
-cask android-studio
-cask appcleaner
-cask appstorehelper
-cask arduino
-cask astah-community
-cask atom
-cask bartender
-cask bettertouchtool
-cask betterzipql
-cask brackets
-cask camtwist
-cask cd-to
-cask chrome-remote-desktop-host
-cask colorpicker-hex
-cask cyberduck
-cask diskwave
-cask dropbox
-cask duet
-cask electron
-cask eve
-cask filezilla
-cask firealpaca
-cask firefox-ja
-cask fitbit-connect
-cask flux
-cask gimp
-cask google-chrome
-cask google-drive
-cask google-japanese-ime
-cask heroku-toolbelt
-cask hosts
-cask image-tool
-cask inkscape
-cask insomniax
-cask isyncr-desktop
-cask iterm2
-cask jdiskreport
-cask karabiner
-cask keyboardcleantool
-cask kindle-for-mac-jp
-cask licecap
-cask lyrics-master
-cask macdown
-cask macvim-kaoriya
-cask music-manager
-cask near-lock
-cask obs
-cask onyx
-cask path-finder
-cask prott
-cask provisionql
-cask qlcolorcode
-cask qlimagesize
-cask qlmarkdown
-cask qlprettypatch
-cask qlstephen
-cask quicklook-csv
-cask quicklook-json
-cask quitter
-cask rubymine
-cask scriptql
-cask send-to-kindle
-cask sequel-pro
-cask simulatormanager
-cask skim
-cask skype
-cask sopcast
-cask soundflower
-cask sourcetree
-cask sqlitebrowser
-cask sublime-text
-cask the-unarchiver
-cask tomahawk
-cask unity-web-player
-cask vagrant
-cask virtualbox
-cask vlc
-cask webpquicklook
 
 # App Store applications
 appstore 974971992 Alternote
