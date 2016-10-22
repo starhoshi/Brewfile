@@ -28,17 +28,6 @@ tap starhoshi/starhoshicask
 tap waltarix/customs
 
 # Other Homebrew packages
-brew mas
-brew cf-cli
-brew grep
-brew libiconv
-brew ncurses
-brew peco
-brew brew-file
-brew ricty
-brew freetype
-brew tmux
-brew zsh
 brew ant
 brew asciinema
 brew autoconf
@@ -47,13 +36,16 @@ brew bash
 brew bash-completion
 brew bison
 brew boost
+brew brew-file
 brew cairo
 brew carthage
+brew cf-cli
 brew czmq
 brew direnv
 brew ffmpeg
 brew fontconfig
 brew fontforge
+brew freetype
 brew gdbm
 brew gettext
 brew gibo
@@ -63,6 +55,7 @@ brew glib
 brew go
 brew gobject-introspection
 brew graphviz
+brew grep
 brew harfbuzz
 brew highlight
 brew hub
@@ -74,6 +67,7 @@ brew lame
 brew leptonica
 brew libevent
 brew libffi
+brew libiconv
 brew libpng
 brew libsodium
 brew libtiff
@@ -82,12 +76,15 @@ brew libxml2
 brew libxslt
 brew lua
 brew makedepend
+brew mas
 brew mysql
+brew ncurses
 brew nkf
 brew nodebrew
 brew openssl
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew postgresql
@@ -97,6 +94,7 @@ brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
 brew redis
+brew ricty
 brew ruby-build
 brew spark
 brew sqlite
@@ -104,13 +102,16 @@ brew swiftlint
 brew terminal-notifier
 brew tesseract
 brew tig
+brew tmux
 brew tree
+brew watchman
 brew webp
 brew wget
 brew x264
 brew xvid
 brew xz
 brew zeromq
+brew zsh
 
 # Cask applications
 cask 1password
