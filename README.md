@@ -6,8 +6,9 @@ Package list for Homebrew
 ## import
 
 ```sh
+$ git clone git@github.com:starhoshi/Brewfile.git
 $ brew tap Homebrew/bundle
-$ brew bundle
+$ brew bundle --file=Brewfile/Brewfile
 ```
 
 ## export
