@@ -6,6 +6,7 @@ Package list for Homebrew
 ## import
 
 ```sh
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ git clone git@github.com:starhoshi/Brewfile.git
 $ brew tap Homebrew/bundle
 $ brew bundle --file=Brewfile/Brewfile
