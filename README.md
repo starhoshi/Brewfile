@@ -10,7 +10,7 @@ $ brew tap Homebrew/bundle
 $ brew bundle
 ```
 
-## dump
+## export
 
 ```sh
 $ brew bundle dump --force
